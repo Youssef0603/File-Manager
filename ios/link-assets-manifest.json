@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "app/assets/fonts/Karla-Bold.ttf",
+      "sha1": "c245d7154645d1791c428999cabdfb4a31a30975"
+    },
+    {
+      "path": "app/assets/fonts/Karla-Medium.ttf",
+      "sha1": "3f3f1193b97958591746ab118961a6e2398ddcd2"
+    },
+    {
+      "path": "app/assets/fonts/Karla-Regular.ttf",
+      "sha1": "ced42259c9a4635b123be76f4ba77144c1fef573"
+    }
+  ]
+}
