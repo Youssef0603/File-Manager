@@ -6,11 +6,11 @@ Welcome to the File Manager App built with React Native! This app allows users t
 - **File Management**: Browse, search, and organize files and folders.
 - **Integration with Device**: Utilizes React Native File System (react-native-fs) library to interact with device storage.
 - **User Interface Components**:
-  - React Native SVG for vector graphics.
-  - React Native Super Grid for grid layouts.
-  - @gorhom/bottom-sheet for bottom sheet functionality.
-  - React Native Progress Circle for progress indicators.
-  - React Native UI Lib for UI components.
+  - "react-native-svg" to integrate svgs in the app.
+  - "react-native-super-grid" for grid layouts.
+  - "@gorhom/bottom-sheet" for bottom sheet functionality.
+  - "react-native-progress-circle" for progress indicators.
+  - "react-native-ui-lib" for UI components.
 
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
