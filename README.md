@@ -13,12 +13,13 @@ React Native UI Lib for UI components.
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
-Prerequisites
+## Prerequisites
 Before running the app, ensure you have completed the React Native Environment Setup as per the official documentation.
 
-Getting Started
+## Getting Started
 Follow these steps to start the app:
 
+## Step 1: Start your Metro
 To start Metro, run the following command from the _root_ of your React Native project:
 
 ```bash
