@@ -1,12 +1,23 @@
+File Manager App with React Native
+Welcome to the File Manager App built with React Native! This app allows users to manage files and folders on their devices. You can search, sort, add files, and create folders easily.
+
+Features
+File Management: Browse, search, and organize files and folders.
+Integration with Device: Utilizes React Native File System (react-native-fs) library to interact with device storage.
+User Interface Components:
+React Native SVG for vector graphics.
+React Native Super Grid for grid layouts.
+@gorhom/bottom-sheet for bottom sheet functionality.
+React Native Progress Circle for progress indicators.
+React Native UI Lib for UI components.
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
-# Getting Started
+Prerequisites
+Before running the app, ensure you have completed the React Native Environment Setup as per the official documentation.
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
-
-## Step 1: Start the Metro Server
-
-First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
+Getting Started
+Follow these steps to start the app:
 
 To start Metro, run the following command from the _root_ of your React Native project:
 
