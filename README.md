@@ -1,7 +1,7 @@
-File Manager App with React Native
+## File Manager App with React Native
 Welcome to the File Manager App built with React Native! This app allows users to manage files and folders on their devices. You can search, sort, add files, and create folders easily.
 
-Features
+## Features
 File Management: Browse, search, and organize files and folders.
 Integration with Device: Utilizes React Native File System (react-native-fs) library to interact with device storage.
 User Interface Components:
